@@ -18,8 +18,9 @@ public class MainActivity extends AppCompatActivity {
     TextView displayText;
     int villenHeath = 10;
     int herroHealth = 50;
-    int herroPower = 20;
+    int herroPower = 30;
     int villenPower = 10;
+    int portion = 3;
 
 
 
